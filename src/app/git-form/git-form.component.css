@@ -1,0 +1,19 @@
+.container-fluid {
+    padding-top: 50px;
+   }
+     .active-cyan input[type=text] {
+     border-bottom: 1px solid #4dd0e1;
+     box-shadow: 0 1px 0 0 #4dd0e1;
+     }
+     input{
+       width: 100%;
+     }
+     .active-cyan-4{
+         display: flex;
+     }
+     .active-cyan-4 input {
+         height: 50px;
+     }
+     .in{
+         text-align: center;
+     }
