@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import '~font-awesome/css/font-awesome.css';
+body {
+    font-family: "Sofia", sans-serif;
+    font-weight: bold;
+    background-image: url('https://images.prismic.io/frameworkmarketplace/5dc5fc06-aec5-4f28-a924-0230aa91a360_Pre-Marketplace+-+image_02.jpg?auto=compress,format');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
