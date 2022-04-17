@@ -1,0 +1,30 @@
+.all-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card-body{
+    background-color: rgb(255, 255, 255);
+    min-width: 400px;
+    margin-top: 20px;
+    max-width: 400px;
+}
+.repo{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+span{
+    color: orangered;
+}
+.btn{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+}
+
+.repo h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
