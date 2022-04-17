@@ -1,0 +1,21 @@
+#navbarNav{
+    justify-content: flex-end;
+    padding-right: 120px;
+}
+#navbarNav ul li a{
+    padding-right: 70px;
+    font-size: 22px;
+    font-weight: 600;
+    color:aquamarine
+}
+.navbar-brand{
+    font-size: 24px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.navbar{
+    color: white;
+}
+.navlink{
+    color: white;
+}
