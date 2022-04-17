@@ -1,0 +1,54 @@
+.card-img-top{
+    height: 250px;
+}
+*{
+    color: white;
+   
+}
+.card {
+    background-color: white;
+    color: white;
+    border: 2px solid orangered;
+}
+.users{
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.list{
+    justify-content: space-between;
+}
+span.label-primary{
+    background: blue;
+}
+span.label-default{
+    background: gray;
+}
+span.label-success{
+    background: orangered;
+}
+span.label-warning{
+    background: greenyellow;
+}
+.container-fluid {
+    padding-top: 50px;
+   }
+     .active-cyan input[type=text] {
+     border-bottom: 1px solid #4dd0e1;
+     box-shadow: 0 1px 0 0 #4dd0e1;
+     }
+     input{
+       width: 100%;
+     }
+     .active-cyan-4{
+         display: flex;
+     }
+     .active-cyan-4 input {
+         height: 50px;
+     }
+     .intro{
+         text-align: center;
+     }
+     input{
+         background: white;
+     }
