@@ -1,0 +1,20 @@
+.home{
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 120px;
+    
+}
+#homee h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: white;
+}
+#homee p{
+    font-size: 20px;
+    color: white;
+}
+.bottom{
+    padding-top: 50px;
+    color: greenyellow;
+    font-size: 30px;
+}
