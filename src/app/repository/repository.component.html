@@ -1,0 +1,17 @@
+<div class="repo">
+    <h2>Repositories</h2>
+    <div class="all-cards">
+        <div class="body" *ngFor="let repo of repos let i=index" >
+            <div class="card-body">
+             <h5 class="card-title"> <span>Repository Name:</span> {{repo.name}}</h5>
+             <p class="card-text"><span>Full Name:</span> {{repo.full_name}}</p>
+             <p class="card-text"><span>Description:</span> {{repo.description}}</p>
+             <p class="card-text"><span>Language:</span> {{repo.language}}</p>
+             <div class="button-search">
+                <a href="{{repo.html_url}}" class="btn">view repo on Github</a>
+                <a href="{{repo.homepage}}" class="btn">Go to live link</a>
+             </div>
+            </div>
+         </div>
+    </div>
+</div>
